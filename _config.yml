@@ -105,7 +105,7 @@ deploy:
   type: git
   repo: https://github.com/luke1879012/luke1879012.github.io # 比如：https://github.com/YunYouJun/yunyoujun.github.io
   branch: main # 默认使用 master 分支
-  message: 更新文章？ # 你可以自定义此次部署更新的说明
+  message: 咕咕咕 # 你可以自定义此次部署更新的说明
 
 live2d:
   # 当enable 为true的时候，会启用yaliya主题自带宠物shizuku,橘头发小姐姐，而且不可以配置位置，所以需要讲enable注释掉

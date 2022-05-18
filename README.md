@@ -1,11 +1,11 @@
 备忘录:
 
-部署: 
+测试|部署: 
 ```
-hexo clean
-hexo generate
-hexo deploy
+hexo clean && hexo g && hexo s
+hexo clean && hexo g && hexo d
 ```
 
-参考网站: https://www.yunyoujun.cn/share/how-to-build-your-site/
+搭建网站: https://www.yunyoujun.cn/share/how-to-build-your-site/
 
+云游君的配置: https://yun.yunyoujun.cn/guide/config.html

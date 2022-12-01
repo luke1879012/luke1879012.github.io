@@ -10,3 +10,12 @@ banner:
     icon: icon-arrow-down-s-line
 sidebar:
   bg_image: /images/config/sidebar_bg_image.png
+footer:
+  beian:
+    enable: true
+    icp: 浙ICP备2022032376号
+    # 公安备案
+    gongan:
+      enable: false
+      text: 京公网安备 XXXXXXXX 号
+      id: XXXXXXXX
